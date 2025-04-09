@@ -1,5 +1,5 @@
 ﻿
-using RetailManagementConsoleApplication;
+using Retail_Management_Console_Application;
 
 Menu menu = new Menu();
 
