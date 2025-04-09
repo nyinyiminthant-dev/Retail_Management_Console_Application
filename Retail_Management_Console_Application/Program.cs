@@ -3,7 +3,7 @@ using Retail_Management_Console_Application;
 
 Menu menu = new Menu();
 
-menu.SeedData();
+
 
 bool running = true;
 while (running)
