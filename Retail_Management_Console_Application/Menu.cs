@@ -43,11 +43,7 @@ public class Menu
                 Console.WriteLine("Invalid input. Product name cannot be empty.");
                 return;
             }
-            if (name.Any(c => !char.IsDigit(c)))
-            {
-                Console.WriteLine("Invalid input.");
-                return;
-            }
+         
 
 
             while (stockround == 1 || stockround > 1)
